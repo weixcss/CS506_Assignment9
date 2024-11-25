@@ -1,12 +1,14 @@
+## Demonstration
+Watch the video below to see a full demonstration of Neural Networks in action:
+[![Neural Networks](https://img.youtube.com/vi/knOEo5KgJoM/0.jpg)](https://youtu.be/knOEo5KgJoM)
+
 # Assignment 9: Neural Networks
 
 ---
 
-In this assignment, you will implement and analyze a simple neural network by visualizing its learned features, decision boundary, and gradients. The goal is to develop a deeper understanding of how a Feedforward Neural Network with one hidden layer operates and represents the input space during learning.
+In this assignment, we will implement and analyze a simple neural network by visualizing its learned features, decision boundary, and gradients. The goal is to develop a deeper understanding of how a Feedforward Neural Network with one hidden layer operates and represents the input space during learning.
 
 ## Task Overview
-
-You are tasked to build and analyze a neural network from scratch with the following specifications:
 - **Architecture**: A Feedforward Neural Network with:
   - Input layer: Dimensionality of 2.
   - Hidden layer: 1 hidden layer with 3 neurons.
@@ -77,14 +79,5 @@ This will start the Flask server and make the interactive application available 
 3. The resulting figure will be displayed. It may take a while before the results show up.
 
 
-## Submission
 
-1. Create a Short Demo Video (1-2 minutes):
-   
-   - Create a demo video by screen recording your output with your voice-over.
-   - Explain any patterns you observe regarding the learned features, decision boundary and gradients.
-   - Compare the convergence behavior of the training process for different activation functions.
-
-2. Submit both your completed code and the demo video link.
-You can either embed the demo video in your portfolio website or just create an unlisted YouTube video with a link to that YT video in your assignment 9 github repo's readme.
 

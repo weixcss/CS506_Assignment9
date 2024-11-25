@@ -5,7 +5,7 @@ FLASK_APP = app.py
 # Install dependencies
 install:
 	python3 -m venv $(VENV)
-	./$(VENV)/bin/pip install -r requirements.txt
+	./$(VENV)/bin/pip3 install -r requirements.txt
 
 # Run the Flask application
 run:
